@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Patricia",
+      "email": "patricia@email.com",
+      "address": "Monteiro/PB"
+    },
+    {
+      "name": "Neto",
+      "email": "neto@email.com",
+      "address": "Recife/PE"
+    },
+    {
+      "name": "Carla",
+      "email": "carla@email.com",
+      "address": "Fortaleza"
+    }
+]

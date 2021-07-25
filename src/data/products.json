@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Blusas Finas",
+      "price": "R$ 139,90",
+      "size": "M",
+      "amount": 15,
+      "image": "../primeira.jpg",
+      "descriptionImage": "Ótima qualidade"
+    },
+    {
+      "name": "Blusas",
+      "price": "R$ 209,90",
+      "size": "M",
+      "amount": 20,
+      "image": "../segunda.jpg",
+      "descriptionImage": "Basicos perfeito"
+    },
+    {
+      "name": "Vestido",
+      "price": "R$ 139,90",
+      "size": "p",
+      "amount": 30,
+      "image": "../terceira.jpg",
+      "descriptionImage": "Casual"
+    }
+  ]
